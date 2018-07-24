@@ -1,0 +1,11 @@
+/Users/jiangzhimin/Downloads/IdentityServer4.Demo-master/HybridServer.Web.Tests/bin/Debug/netcoreapp1.1/HybridServer.Web.Tests.deps.json
+/Users/jiangzhimin/Downloads/IdentityServer4.Demo-master/HybridServer.Web.Tests/bin/Debug/netcoreapp1.1/HybridServer.Web.Tests.runtimeconfig.json
+/Users/jiangzhimin/Downloads/IdentityServer4.Demo-master/HybridServer.Web.Tests/bin/Debug/netcoreapp1.1/HybridServer.Web.Tests.runtimeconfig.dev.json
+/Users/jiangzhimin/Downloads/IdentityServer4.Demo-master/HybridServer.Web.Tests/bin/Debug/netcoreapp1.1/HybridServer.Web.Tests.dll
+/Users/jiangzhimin/Downloads/IdentityServer4.Demo-master/HybridServer.Web.Tests/bin/Debug/netcoreapp1.1/HybridServer.Web.Tests.pdb
+/Users/jiangzhimin/Downloads/IdentityServer4.Demo-master/HybridServer.Web.Tests/obj/Debug/netcoreapp1.1/HybridServer.Web.Tests.csproj.CoreCompileInputs.cache
+/Users/jiangzhimin/Downloads/IdentityServer4.Demo-master/HybridServer.Web.Tests/obj/Debug/netcoreapp1.1/HybridServer.Web.Tests.AssemblyInfoInputs.cache
+/Users/jiangzhimin/Downloads/IdentityServer4.Demo-master/HybridServer.Web.Tests/obj/Debug/netcoreapp1.1/HybridServer.Web.Tests.AssemblyInfo.cs
+/Users/jiangzhimin/Downloads/IdentityServer4.Demo-master/HybridServer.Web.Tests/obj/Debug/netcoreapp1.1/HybridServer.Web.Tests.dll
+/Users/jiangzhimin/Downloads/IdentityServer4.Demo-master/HybridServer.Web.Tests/obj/Debug/netcoreapp1.1/HybridServer.Web.Tests.pdb
+/Users/jiangzhimin/Downloads/IdentityServer4.Demo-master/HybridServer.Web.Tests/obj/Debug/netcoreapp1.1/HybridServer.Web.Tests.csprojAssemblyReference.cache
