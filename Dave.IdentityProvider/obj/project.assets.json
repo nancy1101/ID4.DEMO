@@ -11576,11 +11576,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jiangzhimin/Downloads/Identity-Server-4-Tutorial-Code-master/01 Setting up Identity Server 4 and MVC Client/Dave.IdentityProvider/Dave.IdentityProvider.csproj",
+      "projectUniqueName": "/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/Dave.IdentityProvider.csproj",
       "projectName": "Dave.IdentityProvider",
-      "projectPath": "/Users/jiangzhimin/Downloads/Identity-Server-4-Tutorial-Code-master/01 Setting up Identity Server 4 and MVC Client/Dave.IdentityProvider/Dave.IdentityProvider.csproj",
+      "projectPath": "/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/Dave.IdentityProvider.csproj",
       "packagesPath": "/Users/jiangzhimin/.nuget/packages/",
-      "outputPath": "/Users/jiangzhimin/Downloads/Identity-Server-4-Tutorial-Code-master/01 Setting up Identity Server 4 and MVC Client/Dave.IdentityProvider/obj",
+      "outputPath": "/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

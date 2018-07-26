@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{28F2A386-9EFA-46DB-BA71-099AA9574031}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dave.IdentityProvider/Views/Consent/Index.cshtml">
+    <Files>
+      <File FileName="Dave.IdentityProvider/Startup.cs" Line="1" Column="1" />
+      <File FileName="Dave.IdentityProvider/Config.cs" Line="6" Column="19" />
+      <File FileName="Dave.IdentityProvider/Views/Consent/Index.cshtml" Line="25" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Dave.IdentityProvider PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

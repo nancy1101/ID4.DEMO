@@ -34,3 +34,39 @@
 /Users/jiangzhimin/Downloads/Identity-Server-4-Tutorial-Code-master/01 Setting up Identity Server 4 and MVC Client/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Dave.IdentityProvider.dll
 /Users/jiangzhimin/Downloads/Identity-Server-4-Tutorial-Code-master/01 Setting up Identity Server 4 and MVC Client/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Dave.IdentityProvider.pdb
 /Users/jiangzhimin/Downloads/Identity-Server-4-Tutorial-Code-master/01 Setting up Identity Server 4 and MVC Client/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Dave.IdentityProvider.csproj.CopyComplete
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/bin/Debug/netcoreapp2.1/Dave.IdentityProvider.deps.json
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/bin/Debug/netcoreapp2.1/Dave.IdentityProvider.runtimeconfig.json
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/bin/Debug/netcoreapp2.1/Dave.IdentityProvider.runtimeconfig.dev.json
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/bin/Debug/netcoreapp2.1/Dave.IdentityProvider.dll
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/bin/Debug/netcoreapp2.1/Dave.IdentityProvider.pdb
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/bin/Debug/netcoreapp2.1/Dave.IdentityProvider.Views.dll
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/bin/Debug/netcoreapp2.1/Dave.IdentityProvider.Views.pdb
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Dave.IdentityProvider.csprojResolveAssemblyReference.cache
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Dave.IdentityProvider.csproj.CoreCompileInputs.cache
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Dave.IdentityProvider.RazorAssemblyInfo.cache
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Dave.IdentityProvider.RazorAssemblyInfo.cs
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Dave.IdentityProvider.AssemblyInfoInputs.cache
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Dave.IdentityProvider.AssemblyInfo.cs
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Dave.IdentityProvider.TagHelpers.input.cache
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Dave.IdentityProvider.TagHelpers.output.cache
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Dave.IdentityProvider.RazorCoreGenerate.cache
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Razor/Views/Account/LoggedOut.g.cshtml.cs
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Razor/Views/Account/Login.g.cshtml.cs
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Razor/Views/Account/Logout.g.cshtml.cs
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Razor/Views/Consent/Index.g.cshtml.cs
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Razor/Views/Consent/_ScopeListItem.g.cshtml.cs
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Razor/Views/Diagnostics/Index.g.cshtml.cs
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Razor/Views/Grants/Index.g.cshtml.cs
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Redirect.g.cshtml.cs
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationSummary.g.cshtml.cs
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Dave.IdentityProvider.RazorTargetAssemblyInfo.cache
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Dave.IdentityProvider.RazorTargetAssemblyInfo.cs
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Dave.IdentityProvider.Views.pdb
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Dave.IdentityProvider.dll
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Dave.IdentityProvider.pdb
+/Users/jiangzhimin/Documents/GitHub/IS4.DEMO/Dave.IdentityProvider/obj/Debug/netcoreapp2.1/Dave.IdentityProvider.csproj.CopyComplete
